@@ -25,6 +25,3 @@ https://13.61.249.44.sslip.io
 - Set up CI/CD pipeline
 - Handle FIrewall (ports 80, 443)
 - Debug deployment issues
-
-## Screenshot
-(Add your Screenshot)
