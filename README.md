@@ -17,7 +17,7 @@ This project demonstrates deploying a web server on AWS EC2 with CI/CD automatio
 - CI/CD pipeline working
 
 ## Live Demo
-https://YOUR-IP.sslip.io
+https://13.61.249.44.sslip.io
 
 ## What I Learned
 - How to launch EC2 instance
