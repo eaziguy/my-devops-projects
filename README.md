@@ -25,3 +25,9 @@ https://13.61.249.44.sslip.io
 - Set up CI/CD pipeline
 - Handle FIrewall (ports 80, 443)
 - Debug deployment issues
+
+## NOtes
+- Open port 443 for HTTPS
+- Use Elastic IP to avoid IP change
+- Attach IAM role for AWS access
+- Use awscii to interact with s3
